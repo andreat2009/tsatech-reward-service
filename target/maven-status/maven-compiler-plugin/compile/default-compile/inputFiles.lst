@@ -1,0 +1,11 @@
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/RewardServiceApplication.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/config/SecurityConfig.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/controller/RewardController.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/domain/RewardTransaction.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/dto/RewardSummaryResponse.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/dto/RewardTransactionRequest.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/dto/RewardTransactionResponse.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/events/DomainEvent.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/events/EventPublisher.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/repository/RewardTransactionRepository.java
+/Users/andreaterrasi/Documents/New_project/reward-service/src/main/java/com/newproject/reward/service/RewardService.java
