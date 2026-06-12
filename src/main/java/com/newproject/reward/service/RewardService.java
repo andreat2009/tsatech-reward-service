@@ -45,7 +45,10 @@ public class RewardService {
 
     @Transactional
     public RewardTransactionResponse addTransaction(Long customerId, RewardTransactionRequest request) {
-        requestActor.assertCustomerAccessIfAuthenticated(customerId);
+        // SECURITY (H1): l'accredito di punti porta valore -> solo ADMIN. Un cliente
+        // autenticato sul proprio customerId poteva accreditarsi punti arbitrari (pointsDelta
+        // dal body). L'earn automatico, se introdotto, andra' fatto via consumer eventi interno.
+        requestActor.assertAdmin();
         RewardTransaction transaction = new RewardTransaction();
         transaction.setCustomerId(customerId);
         transaction.setOrderId(request.getOrderId());

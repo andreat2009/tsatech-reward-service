@@ -1,0 +1,14 @@
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/RewardServiceApplication.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/config/SecurityConfig.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/controller/RewardController.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/domain/RewardTransaction.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/dto/RewardSummaryResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/dto/RewardTransactionRequest.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/dto/RewardTransactionResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/error/ApiErrorResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/error/GlobalApiExceptionHandler.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/events/DomainEvent.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/events/EventPublisher.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/repository/RewardTransactionRepository.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/security/RequestActor.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/reward-service/src/main/java/com/newproject/reward/service/RewardService.java
